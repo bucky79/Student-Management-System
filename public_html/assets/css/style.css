@@ -1,0 +1,13 @@
+.validation_error
+{
+    color : red;
+}
+
+.validation_error_box
+{
+    border-color : red;
+}
+.validation_password
+{
+    color : forestgreen;
+}
